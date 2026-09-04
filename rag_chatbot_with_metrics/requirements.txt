@@ -1,0 +1,13 @@
+tiktoken
+numpy
+langchain_chroma
+langchain_huggingface
+langchain_docling
+langchain_text_splitters
+langchain_docling
+docling
+docling_parse
+pypdfium2
+sentence_transformers
+langchain_google_genai
+gradio
